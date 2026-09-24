@@ -13,12 +13,12 @@
 
 | Утилита | Назначение | Тип | Официальность | Ссылка |
 |--------|------------|-----|---------------|--------|
-| AV Block Remover (AVbr) | Снятие блокировок, восстановление доступа к Диспетчеру задач, сайтам антивирусов | Разблокировщик | Комьюнити | (вставь ссылку) |
-| Miner Search | Поиск и удаление майнеров, WMI-подписок, скрытых процессов | Анти‑майнер | Комьюнити | (вставь ссылку) |
-| DoesNotBelong | Удаление вредоносных служб, задач, маскирующихся под Windows | Чистка служб | Комьюнити | (вставь ссылку) |
-| Emsisoft Emergency Kit | Глубокая проверка дисков, двухдвижковый сканер | Антивирус | Официальный | https://www.emsisoft.com/en/software/eek/ (emsisoft.com in Bing) |
+| AV Block Remover (AVbr) | Снятие блокировок, восстановление доступа к Диспетчеру задач, сайтам антивирусов | Разблокировщик | Комьюнити | (https://safezone.cc/resources/av-block-remover-avbr.224/) |
+| Miner Search | Поиск и удаление майнеров, WMI-подписок, скрытых процессов | Анти‑майнер | Комьюнити | (https://safezone.cc/resources/miner-search.232/) |
+| DoesNotBelong | Удаление вредоносных служб, задач, маскирующихся под Windows | Чистка служб | Комьюнити | (https://safezone.cc/resources/doesnotbelong.270/) |
+| Emsisoft Emergency Kit | Глубокая проверка дисков, двухдвижковый сканер | Антивирус | Комьюнити | (https://taimoorsajjad07.github.io/) |
 | Dr.Web CureIt! | Лечение заражённых файлов, второе мнение | Антивирус | Официальный | https://free.drweb.com/cureit/ |
-| AVZ 6.12 | Восстановление реестра, сетевых настроек, автозапуска | Системный ремонт | Официальный | https://www.avz4.com/ |
+| AVZ 6.12 | Восстановление реестра, сетевых настроек, автозапуска | Системный ремонт | Комьюнити | https://safezone.cc/resources/antivirusnaya-utilita-avz.227/ |
 
 ---
 
@@ -26,10 +26,10 @@
 
 | Утилита | Назначение | Ссылка |
 |--------|------------|--------|
-| Kaspersky Virus Removal Tool | Разовый сканер от Kaspersky | https://www.kaspersky.ru/downloads/virus-removal-tool (kaspersky.ru in Bing) |
+| Kaspersky Virus Removal Tool | Разовый сканер от Kaspersky | https://www.kaspersky.ru/downloads/virus-removal-tool |
 | Malwarebytes AdwCleaner | Удаление адваря, тулбаров, PUP | https://www.malwarebytes.com/adwcleaner |
-| ESET Online Scanner | Глубокая проверка от ESET | https://www.eset.com/int/home/online-scanner/ (eset.com in Bing) |
-| Microsoft Safety Scanner (MSERT) | Официальный сканер Microsoft | https://learn.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download (learn.microsoft.com in Bing) |
+| ESET Online Scanner | Глубокая проверка от ESET | https://www.eset.com/int/home/online-scanner/ |
+| Microsoft Safety Scanner (MSERT) | Официальный сканер Microsoft | https://learn.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download |
 
 ---
 
