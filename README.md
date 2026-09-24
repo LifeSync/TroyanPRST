@@ -1,4 +1,4 @@
-#🛡 TroyanPRST — Ultimate Malware Removal Toolkit (Portable, No Background Load)
+# 🛡 TroyanPRST — Ultimate Malware Removal Toolkit (Portable, No Background Load)
 
 <img width="1536" height="745" alt="photo_2026-09-24_13-40-29" src="https://github.com/user-attachments/assets/692525c2-4630-4fcb-b1e2-b2c6ad54701e" />
 
