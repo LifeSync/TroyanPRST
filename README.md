@@ -19,7 +19,7 @@
 | AV Block Remover (AVbr) | Снятие блокировок, восстановление доступа к Диспетчеру задач, сайтам антивирусов | Разблокировщик | Комьюнити | (https://safezone.cc/resources/av-block-remover-avbr.224/) |
 | Miner Search | Поиск и удаление майнеров, WMI-подписок, скрытых процессов | Анти‑майнер | Комьюнити | (https://safezone.cc/resources/miner-search.232/) |
 | DoesNotBelong | Удаление вредоносных служб, задач, маскирующихся под Windows | Чистка служб | Комьюнити | (https://safezone.cc/resources/doesnotbelong.270/) |
-| Emsisoft Emergency Kit | Глубокая проверка дисков, двухдвижковый сканер | Антивирус | Комьюнити | (https://taimoorsajjad07.github.io/) |
+| Emsisoft Emergency Kit | Глубокая проверка дисков, двухдвижковый сканер | Антивирус | Официально | (https://my.emsisoft.com/) |
 | Dr.Web CureIt! | Лечение заражённых файлов, второе мнение | Антивирус | Официальный | https://free.drweb.com/cureit/ |
 | AVZ 6.12 | Восстановление реестра, сетевых настроек, автозапуска | Системный ремонт | Комьюнити | https://safezone.cc/resources/antivirusnaya-utilita-avz.227/ |
 
